@@ -6,4 +6,5 @@
 
 - 📫 How to reach me **lrdgz@gmail.com**, **LinkedIn:** <a href="https://www.linkedin.com/in/luis-rodriguez-19079a140/">Luis Rodriguez</a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lrdgz&show_icons=true" alt="lrdgz" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lrdgz&show_icons=true&theme=tokyonight" alt="lrdgz" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrdgz" alt="lrdgz" /></p>
