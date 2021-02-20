@@ -8,4 +8,3 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lrdgz&show_icons=true&theme=tokyonight" alt="lrdgz" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrdgz&theme=tokyonight" alt="lrdgz" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrdgz&hide=javascript,html)](https://github.com/lrdgz/github-readme-stats)
