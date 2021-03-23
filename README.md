@@ -19,6 +19,13 @@ Frameworks and Tools:
 
 ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
+![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
+![Reactjs](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
+![Vuejs](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
+![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
+![Postgresql](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
+![Mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
 ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)
