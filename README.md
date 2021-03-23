@@ -22,6 +22,8 @@ Frameworks and Tools:
 ![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
 ![Reactjs](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![Vuejs](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)
+![Graphql](https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
 ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
 ![Postgresql](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
