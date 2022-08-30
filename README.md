@@ -11,29 +11,10 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Luis%20Rodriguez-red)](https://www.instagram.com/lrdgzc/)
 [![Email Badge](https://img.shields.io/badge/Email-Luis%20Rodriguez-red)](https://www.gmail.com/lrdgz@gmail.com/)
 
-- 💬 Ask me about **PHP, Javascript, MYSQL, Python**
-
-![Luis Rodriguez GitHub stats](https://github-readme-stats.vercel.app/api?username=lrdgz&show_icons=true&theme=tokyonight&count_private=true)
-
-Frameworks and Tools:
-
-![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
-![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)
-![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
-![Reactjs](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
-![Vuejs](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)
-![Graphql](https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)
-![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
-![Postgresql](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
-![Mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg)
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)
-![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
-![Digital Ocean](https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg)
-
+<a href="http://www.github.com/eliecergarcia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lrdgz&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/eliecergarcia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lrdgz&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/eliecergarcia"><img src="https://activity-graph.herokuapp.com/graph?username=lrdgz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/eliecergarcia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrdgz&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 Frameworks and Tools Most Used:
 
